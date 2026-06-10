@@ -60,35 +60,27 @@ basic_info:
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Desarrollo y mantenimiento de electronica
+      university: COOP J.Comenius
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      university_logo: https://yt3.googleusercontent.com/Mi5lt-BX4XSjuM8t4xTKHhHmFvEtXL9ISmlGf8UbPBocEa_CjkM82lIHoMB8UxpA3D_pjrDo=s900-c-k-c0x00ffffff-no-rj
+      time: 2009 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Técnico Superior en Electrónica con competencias clave en el diseño, prototipado y mantenimiento de 
+        sistemas analógicos, digitales y microprogramables. Capacitado para el desarrollo integral de 
+        productos desde la fase de esquemas y diseño de PCBs (CAD electrónico) hasta la fabricación de prototipos.
+        Especialista en el diagnóstico y resolución de averías complejas mediante el uso de instrumental
+        de laboratorio (osciloscopio, multímetro) y el dominio de técnicas de soldadura avanzada 
+        (SMD/inserción), con sólida experiencia en control de calidad, asistencia técnica y gestión de 
+        planes de mantenimiento preventivo y correctivo.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: 
+      university: 
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
+      university_logo: 
+      time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        
 
 # Your previous job experiences or volunteer
 experiences:
