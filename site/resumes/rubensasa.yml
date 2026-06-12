@@ -101,6 +101,7 @@ experiences:
           - Aseguramiento de la Calidad y Puesta en Marcha (Commissioning): Ejecución de pruebas 
           funcionales, ensayos de continuidad, rigidez dieléctrica y aislamiento en frío/caliente para garantizar 
           la seguridad y fiabilidad de los sistemas de potencia de las locomotoras.
+
           - Inspección Técnica e Instrumental: Verificación minuciosa de mazos de cableado, conexionado y crimpado
           bajo normativas del sector, identificando desviaciones mediante el uso de equipos de 
           medición (megómetros, osciloscopios y multímetros).
@@ -110,28 +111,46 @@ experiences:
       company: Alstom
       # optional
       company_logo: https://1000logos.net/wp-content/uploads/2020/08/Alstom-Logo.png
+      details: |
         Técnico especialista encargado del ensamblaje, canalización y conexionado integral de los sistemas
         eléctricos y electrónicos de potencia y control en material rodante ferroviario.
 
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - Interpretación y Montaje: Lectura y ejecución de esquemas eléctricos complejos para el trazado
+          de mazos de cables (harnesses), montaje de armarios de control, racks de electrónica y subestaciones
+          a bordo de la locomotora.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Conexionado de Precisión: Dominio de técnicas de conexionado industrial, incluyendo el crimpado de
+          terminales de alta y baja tensión, mangueras de potencia y soldadura, garantizando la fijación óptima
+          contra vibraciones.
+
+          - Calidad y Normativa: Trabajo bajo estrictos estándares de calidad ferroviaria, asegurando el correcto
+          guiado del cableado y colaborando con el equipo de pruebas para la verificación previa a la puesta en
+          marcha.
+
+    - role: Operario de produccion electrica
+      time: 2018 - 2021
+      company: Power Electronics
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://www.upv.es/entidades/sie/wp-content/uploads/2024/09/power-electronics.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        DTécnico de montaje y ensamblaje encargado de la fabricación en línea de inversores solares, estaciones 
+        de carga para vehículos eléctricos y equipos de electrónica de potencia de gran formato.
 
-          - Bullet point
-          - Bullet point
+          - Ensamblaje e Integración: Montaje electromecánico de componentes en armarios industriales, incluyendo 
+          la colocación de pletinas de cobre, transformadores, semiconductores de potencia (IGBTs) y tarjetas de 
+          control electrónico.
 
+          - Cableado y Conexionado Industrial: Interpretación de esquemas eléctricos para el guiado de cableado 
+          de potencia y maniobra, domando mangueras de gran sección y realizando el crimpado de terminales de alta 
+          presión.
+
+          - Uso de Herramientas y Apriete Dinamométrico: Manejo experto de herramientas manuales, neumáticas 
+          y eléctricas, aplicando el par de apriete exacto con llaves dinamométricas según la ficha técnica del 
+          producto para evitar fallos por fatiga o temperatura.
+
+          -Calidad y Autocontrol: Verificación visual y testeo básico en línea del correcto conexionado, trabajando 
+          bajo metodologías de producción eficiente (Lean Manufacturing) y estrictos estándares de seguridad 
+          y calidad.
 # Your project portfolio
 projects:
     intro: >
@@ -173,19 +192,19 @@ projects:
 skills:
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 30%
 
       - name: JavaScript & jQuery
-        level: 98%
+        level: 30%
 
       - name: Angular
-        level: 98%
+        level: 30%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 30%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 30%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 30%
