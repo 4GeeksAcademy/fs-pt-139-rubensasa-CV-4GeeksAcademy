@@ -27,8 +27,8 @@ basic_info:
 
     # Contact Information
     email: ruben.sarasa.dev@gmail.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
+    phone:  #optional
+    website:  #optional
     linkedin:  #optional
     
     #
@@ -42,19 +42,19 @@ basic_info:
     # Languages you speak, levels include: Native, Professional
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
+        level: A2
 
       - idiom: Spanish
         level: Professional
 
+      - idiom: Valenciano
+        level: Professional        
+
     # Interests or hobbies
     interests:
-      - item: Climbing
+      - item: Rolling
 
-      - item: Snowboarding
+      - item: Airsoft
 
       - item: Cooking
 
@@ -74,47 +74,46 @@ education:
         (SMD/inserción), con sólida experiencia en control de calidad, asistencia técnica y gestión de 
         planes de mantenimiento preventivo y correctivo.
 
-    - degree: 
-      university: 
+    - degree: Grado en Ingeniería Electrónica Industrial y Automática
+      university: university polytechnic of valencia
       # optional
-      university_logo: 
-      time: 
+      university_logo: https://www.upv.es/comu/nueva-imagen/images/marca_UPV_principal_negro300.png 
+      time: 2011-2016
       details: |
+        El objetivo del Grado en Ingeniería Electrónica Industrial y Automática es formar científica y técnicamente
+        a profesionales que puedan satisfacer las necesidades de la industria y de la Administración Pública en el
+        campo de la Electrónica Industrial y Automática.
         
 
 # Your previous job experiences or volunteer
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Quality division
+      time: 2025 - Present
+      company: Alstom
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://1000logos.net/wp-content/uploads/2020/08/Alstom-Logo.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        El departamento de Calidad Eléctrica en locomotoras es el encargado de auditar, probar y certificar que
+        todos los sistemas eléctricos y electrónicos del tren sean 100% seguros y fiables antes de ponerse en vía.
+        Dado que una locomotora es una central eléctrica móvil expuesta a vibraciones extremas, este equipo se 
+        asegura de que ningún componente falle ni ponga en riesgo la seguridad.
+
+          - Aseguramiento de la Calidad y Puesta en Marcha (Commissioning): Ejecución de pruebas 
+          funcionales, ensayos de continuidad, rigidez dieléctrica y aislamiento en frío/caliente para garantizar 
+          la seguridad y fiabilidad de los sistemas de potencia de las locomotoras.
+          - Inspección Técnica e Instrumental: Verificación minuciosa de mazos de cableado, conexionado y crimpado
+          bajo normativas del sector, identificando desviaciones mediante el uso de equipos de 
+          medición (megómetros, osciloscopios y multímetros).
+
+    - role: Operario de montaje de locomotoras
+      time: 2021 - 2025
+      company: Alstom
+      # optional
+      company_logo: https://1000logos.net/wp-content/uploads/2020/08/Alstom-Logo.png
+        Técnico especialista encargado del ensamblaje, canalización y conexionado integral de los sistemas
+        eléctricos y electrónicos de potencia y control en material rodante ferroviario.
 
           - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
 
